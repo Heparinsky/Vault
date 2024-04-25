@@ -1,0 +1,17 @@
+{
+  "name": "project-11-nodejs",
+  "version": "1.0.0",
+  "description": "Test Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"Hello Server!\");"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Amirreza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
