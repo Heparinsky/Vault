@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./styles.css" />
+        <title>Exercise</title>
+    </head>
+    <body>
+        <main>
+            <div id="header" class="header">
+                <h1 class="main-title">Exercise Page</h1>
+                <p class="description">I will record my exercises here.</p>
+            </div>
+
+            <div id="main-form" class="main-form">
+                <form action="">
+                    <fieldset id="date-getter" class="fieldset">
+                        <label for="date">Enter the date: </label
+                        ><input type="date" id="date" />
+                    </fieldset>
+                    <fieldset id="activity-getter" class="fieldset">
+                        <label for="activity">Enter Activity: </label>
+                        <select name="activity" id="activity">
+                            <option value="null" selected></option>
+                            <option value="semi-pushups">
+                                Swedish Push-Ups
+                            </option>
+                            <option value="pushups">Classic Push-Ups</option>
+                            <option value="situps">Sit-Ups</option>
+                            <option value="squats">Squats</option>
+                            <option value="legraises">Legraises</option>
+                            <option value="russian-twists">
+                                Russian Twists
+                            </option>
+                            <option value="mixed"></option>
+                            <option value="tubes">Tubes</option>
+                            <option value="elevated-pushups">Elevated Push-Ups</option>
+                        </select>
+                    </fieldset>
+                    <fieldset id="reps-getter" class="fieldset">
+                        <label for="reps"></label>Enter Reps:
+                        <input type="number" id="reps" />
+                    </fieldset>
+                    <button type="submit" onclick="getForm()" class="button">
+                        Submit
+                    </button>
+                </form>
+            </div>
+        </main>
+        <script src="./app.js"></script>
+    </body>
+</html>
