@@ -1,0 +1,14 @@
+{
+  "fileDirections": {
+    "Programming/JS/3.4 String Methods.md": "ltr",
+    "Reports/Report 1.md": "ltr",
+    "تمپلت‌ها/pushups json.md": "ltr",
+    "تمپلت‌ها/semi-pushups json.md": "ltr",
+    "فلش‌کارت/کارت ۳.md": "rtl"
+  },
+  "defaultDirection": "rtl",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

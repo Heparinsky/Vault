@@ -1,0 +1,9 @@
+{
+  "accentColor": "#1a0057",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "farsifonts"
+  ],
+  "baseFontSize": 22,
+  "translucency": false
+}

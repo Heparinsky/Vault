@@ -1,0 +1,11 @@
+{
+  "accentColor": "#5ccef5",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "farsis"
+  ],
+  "baseFontSize": 30,
+  "cssTheme": "",
+  "translucency": false,
+  "nativeMenus": false
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "#454c4e",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "farsis"
+  ],
+  "baseFontSize": 28,
+  "cssTheme": "Everblush",
+  "translucency": false,
+  "nativeMenus": false,
+  "baseFontSizeAction": false
+}

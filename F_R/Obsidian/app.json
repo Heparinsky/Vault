@@ -1,0 +1,39 @@
+{
+  "rightToLeft": true,
+  "spellcheck": false,
+  "useMarkdownLinks": true,
+  "mobileToolbarCommands": [
+    "highlightr-plugin:Theme",
+    "highlightr-plugin:Disease",
+    "highlightr-plugin:Purple",
+    "highlightr-plugin:unhighlight",
+    "editor:toggle-checklist-status",
+    "editor:insert-wikilink",
+    "editor:insert-tag",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ],
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showLineNumber": false
+}

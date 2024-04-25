@@ -1,0 +1,9 @@
+{
+  "time-format": "HH:mm:ss",
+  "date-display-format": "yyyy . MM . DD",
+  "date-colors": [],
+  "append-archive-date": true,
+  "archive-date-separator": " - ",
+  "archive-date-format": "YYYY . MM . DD - - - HH:mm:ss",
+  "date-picker-week-start": 6
+}

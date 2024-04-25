@@ -1,0 +1,30 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Pink": "#FFB8EBA6",
+    "Red": "#FF5582A6",
+    "Orange": "#FFB86CA6",
+    "Green": "#BBFABBA6",
+    "Cyan": "#ABF7F7A6",
+    "Blue": "#ADCCFFA6",
+    "Purple": "#D2B3FFA6",
+    "Grey": "#CACFD9A6",
+    "Theme": "#4CCDCD",
+    "Disease": "#FF0000B8",
+    "Yellow": "#FCFF00"
+  },
+  "highlighterOrder": [
+    "Theme",
+    "Disease",
+    "Yellow",
+    "Purple",
+    "Pink",
+    "Red",
+    "Orange",
+    "Green",
+    "Cyan",
+    "Blue",
+    "Grey"
+  ]
+}

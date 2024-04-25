@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "farsis"
+  ],
+  "baseFontSize": 30,
+  "cssTheme": "GitHub Theme",
+  "translucency": false,
+  "nativeMenus": false
+}
